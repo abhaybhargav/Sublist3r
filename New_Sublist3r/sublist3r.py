@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
-# Sublist3r v1.0
+# New_Sublist3r v1.0
 # By Ahmed Aboul-Ela - twitter.com/aboul3la
 
 # modules in standard library

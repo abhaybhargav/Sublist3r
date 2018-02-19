@@ -15,7 +15,7 @@ setup(
     url='',
     license='',
     author='',
-    install_requires = ['requests','dnspython','argparse'],
+    install_requires = ['requests','dnspython','argparse', 'pyyaml', 'termcolor'],
     author_email='',
     description=''
 )
